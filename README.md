@@ -297,7 +297,6 @@ export default App;
 }
 ```
 ## OUTPUT:
-![Web capture_31-5-2023_1215_localhost](https://github.com/gpavithra673/React_portfolio/assets/93427264/7a6360c8-3723-4d53-a628-87e4ba03fd28)
-
+![Web capture_31-5-2023_11528_localhost](https://github.com/gpavithra673/React_portfolio/assets/93427264/0fa3e3d8-db05-4f26-adb7-1717677c43d2)
 ## RESULT:
 ### Hence we have successfully created a portfolio using react js.
